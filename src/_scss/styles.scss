@@ -1,0 +1,11 @@
+$primary-color: #000;
+$secondary-color: #aaa;
+
+div {
+    height: 10vh;
+    background-color: $primary-color;
+    h1 {
+        height: 10vh;
+        background-color: $secondary-color;
+    }
+}
